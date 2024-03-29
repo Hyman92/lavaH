@@ -370,3 +370,4 @@
 {"error":"{\"Error_GUID\":\"6717413869439080473\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:block,connectionType:POST},method:block}\"}"}
 {"error":"{\"Error_GUID\":\"8728291632333660911\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:block,connectionType:POST},method:block}\"}"}
 {"error":"{\"Error_GUID\":\"10745770608716121046\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:block,connectionType:POST},method:block}\"}"}
+{"error":"{\"Error_GUID\":\"8894484203736302894\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:block,connectionType:POST},method:block}\"}"}
