@@ -339,3 +339,4 @@
 {"error":"{\"Error_GUID\":\"17144811125545737796\",\"Error\":\"Failed all retries {GUID:17144811125545737796,error:Simulation: Provider supplied an older latest block than it has previously ErrMsg: provider returned invalid finalization data, with accountability {session.LatestBlock:19537668,latestBlock:19537659,Provider:lava@1uhwudw7vzqtnffu2hf5yhv4n8trj79ezl66z99}: provider returned invalid finalization data, with accountability,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x480e4f788"}
 {"jsonrpc":"2.0","id":1,"result":"0x55f2cbae1"}
+{"jsonrpc":"2.0","id":1,"result":"0x4f979ce20"}
